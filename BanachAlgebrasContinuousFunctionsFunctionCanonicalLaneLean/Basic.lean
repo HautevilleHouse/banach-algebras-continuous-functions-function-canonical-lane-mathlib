@@ -1,0 +1,2 @@
+import BanachAlgebrasContinuousFunctionsFunctionCanonicalLaneLean.GateLemmas
+import BanachAlgebrasContinuousFunctionsFunctionCanonicalLaneLean.FinalTheorem
